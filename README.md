@@ -1,6 +1,6 @@
 ## Olá! 
 
-Sou João Henrique Calza, estou no quarto semestre de Ciências da Computação na Universidade de Passo Fundo.
+Me chamo João Henrique Calza, estou no 4º semestre de Ciências da Computação na Universidade de Passo Fundo.
 
 -  Atualmente, estou me aprofundando em ciência de dados com Python e SQL, mas também tenho um bom conhecimento em C++.
 -  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo da ciência de dados.
