@@ -2,9 +2,9 @@
 
 Me chamo João Henrique Calza, estou no 4º semestre de Ciências da Computação na Universidade de Passo Fundo.
 
--  Atualmente, estou me aprofundando em ciência de dados com Python e SQL, mas também tenho um bom conhecimento em C++.
--  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo da ciência de dados.
--  Estou interessado em colaborar em projetos que envolvem Python, SQL e C++, além de análise de dados.
+-  Atualmente, estou me aprofundando em desenvolvimento frontend e backend em TypeScript, e também em projetos em C++.
+-  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo de desenvolvimento e ciência de dados.
+-  Estou interessado em colaborar em projetos que envolvem Python, TypeScript e C++.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre tecnologia ou colaborar em projetos!
 
