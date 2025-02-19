@@ -1,6 +1,6 @@
 ## Olá! 
 
-Me chamo João Henrique Calza, estou no 4º semestre de Ciências da Computação na Universidade de Passo Fundo.
+Me chamo João Henrique Calza, estou no 5º semestre de Ciências da Computação na Universidade de Passo Fundo.
 
 -  Atualmente, estou me aprofundando em desenvolvimento frontend e backend em TypeScript, e também em projetos em C++.
 -  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo de desenvolvimento e ciência de dados.
