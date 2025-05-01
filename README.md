@@ -3,8 +3,7 @@
 Me chamo João Henrique Calza, estou no 5º semestre de Ciências da Computação na Universidade de Passo Fundo.
 
 -  Atualmente, estou me aprofundando em desenvolvimento frontend e backend em TypeScript, e também em projetos em C++.
--  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo de desenvolvimento e ciência de dados.
--  Estou interessado em colaborar em projetos que envolvem Python, TypeScript e C++.
+-  Estou sempre aprendendo mais sobre tecnologia e explorando novas oportunidades no campo de desenvolvimento e análise de dados.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre tecnologia ou colaborar em projetos!
 
