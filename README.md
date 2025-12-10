@@ -1,5 +1,7 @@
 Estudante do 6º semestre de Ciências da Computação na UPF
+
 Interesse em desenvolvimento web full stack e análise de dados
+
 Sempre aprendendo e desenvolvendo projetos práticos
 
 <div> 
