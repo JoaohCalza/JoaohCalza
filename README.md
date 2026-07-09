@@ -1,9 +1,8 @@
-# João Calza
+# João Henrique Calza
 
-Desenvolvedor Full Stack. Trabalho na Atua by NSTech — implementando funcionalidades,
-corrigindo bugs e entregando melhorias contínuas.
+Desenvolvedor Full Stack na Atua by NSTech, atuando no desenvolvimento, evolução e sustentação de sistemas web em ambiente de produção.
 
-Estudante de Ciência da Computação na UPF (7º semestre) com interesse principal em desenvolvimento web.
+Experiência com desenvolvimento de APIs REST, integrações com sistemas externos, implementação de funcionalidades, correção de bugs e melhorias contínuas em aplicações corporativas.
 
 ## Stack
 
@@ -14,6 +13,8 @@ Estudante de Ciência da Computação na UPF (7º semestre) com interesse princi
 ![AJAX](https://img.shields.io/badge/AJAX-005C97?style=flat&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![AI-Assisted Testing](https://img.shields.io/badge/AI--Assisted_Testing-412991?style=flat)
 
 ## Contato
 
